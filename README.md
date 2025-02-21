@@ -41,19 +41,20 @@ This project focuses on designing, implementing, and analyzing a **Clothing Fact
 - **Revenue Breakdown:** Explored seasonal variations in sales and revenue.
 
 ## Database Schema
-- **Customer Segmentation**
+- **ER-Dagram**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png)
+![Dashboard View](https://github.com/muhdshahan/Clothing-Factory-Database-Project/blob/main/ER%20Diagram/ER-Diagram.png)
 
 
-- **Churn Analysis**
+- **Database**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/two.png)
+![Dashboard View](https://github.com/muhdshahan/Clothing-Factory-Database-Project/blob/main/Database/1.png)
 
-
-- **Revenue & Service Insights**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/three.png)
+![Dashboard View](https://github.com/muhdshahan/Clothing-Factory-Database-Project/blob/main/Database/2.png)
+
+  
+![Dashboard View](https://github.com/muhdshahan/Clothing-Factory-Database-Project/blob/main/Database/3.png)
 
 ## Conclusion
 This project demonstrates a complete SQL workflow, from designing an ER diagram to database implementation, querying, Python integration, and business analysis. The insights extracted can help in optimizing inventory, improving supplier management, and understanding customer trends for better decision-making.
