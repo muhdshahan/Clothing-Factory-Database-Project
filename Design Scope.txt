@@ -1,0 +1,19 @@
+1.scope of database
+
+Clothing Factory database will store and manage:
+ - Customers (individuals and businesses)
+ - Textile Shops (wholesale and retail)
+ - Suppliers (raw materials,fabrics,accessories)
+ - Orders (placed by customers , fulfilled by factory)
+ - Inventory (fabric , finished products , raw materials)
+ - Employees (factory workers,managers,salespeople)
+ - Financial Transactions (payments , expenses)
+
+2. identify key entities & relationships 
+
+relationships:
+ - one customer can place multiple orders.
+ - one order can contain multiple order_items
+ - each order_item references a product from inventory
+ - suppliers supply inventory items
+ - employees manage production , sales and deliveries
