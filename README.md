@@ -21,8 +21,11 @@ This project focuses on designing, implementing, and analyzing a **Clothing Fact
 ## Process
 **1.Database Design**
   - Created an ER Diagram on dbdiagram.io, mapping all entities and relationships.
+    
 **2.Database Implementation**
   - Implemented the schema in PostgreSQL, defining constraints, indexes, and relationships.
+
+
 **3.Data Insertion & Management**
   - Populated tables with sample data (Kerala-based names for customers, suppliers, and employees).
 **4.Complex Query Execution**
