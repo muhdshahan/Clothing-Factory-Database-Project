@@ -25,12 +25,13 @@ This project focuses on designing, implementing, and analyzing a **Clothing Fact
 **2.Database Implementation**
   - Implemented the schema in PostgreSQL, defining constraints, indexes, and relationships.
 
-
 **3.Data Insertion & Management**
   - Populated tables with sample data (Kerala-based names for customers, suppliers, and employees).
+
 **4.Complex Query Execution**
   - Wrote advanced SQL queries for data retrieval, aggregation, and reporting.
-**4.Python Integration & Analysis**
+
+**5.Python Integration & Analysis**
   - Connected the database to Python for analysis using Pandas and Matplotlib.
 
 ## Insights & Findings
